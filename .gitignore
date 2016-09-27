@@ -13,10 +13,10 @@ hs_err_pid*
 
 ~*
 #Eclipse Junk#
-.metadata*
-.recommenders*
-RemoteSystemsTemp*
-.project
-.classpath
-.settings
-bin
+.metadata/
+.recommenders/
+RemoteSystemsTemp*/
+.project/
+.classpath/
+.settings/
+bin/
