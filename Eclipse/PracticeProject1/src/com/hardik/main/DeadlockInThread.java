@@ -8,6 +8,9 @@ public class DeadlockInThread extends Thread {
 		DeadlockInThread dl1 = new DeadlockInThread();
 		DeadlockInThread dl2 = new DeadlockInThread();
 		
+		float f = 3.4f;
+		
+		
 	}
 
 }
